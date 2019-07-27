@@ -1,0 +1,203 @@
+    1  git clone https://github.com/turjo2222/CT2_Practice.git
+    2  cd CT2_Practice/
+    3  git config --global user.email "turjo2222@gmail.com
+    4  exit
+    5  cd CT2_Practice/
+    6  git add --all
+    7  git commit -m "add_ignorfile"
+    8  git config --global user.email " turjo2222@gmail.com"
+    9  git config --global user.name " turjo2222"
+   10  git add --all
+   11  git push origin master
+   12  git clone git@github.com:Mostafa678/StockSystem.git
+   13  git clone git@github.com:Mostafa678/StockSystem.git
+   14  git config --global user.name
+   15  git config --global user.name "Mostafa678"
+   16  git config --global user.password
+   17  git config --global user.password "AAaa123*"
+   18  git config --global user.name
+   19  git clone git@github.com:Mostafa678/StockSystem.git
+   20   ssh-keygen -t rsa -b 4096 -C "golammostafa678@gmail.com"
+   21  ssh-add ~/.ssh/id_rsa
+   22  ssh-add -K ~/.ssh/id_rsa.pub 
+   23  git clone git@github.com:Mostafa678/StockSystem.git
+   24  git clone https://github.com/turjo2222/batch5.git
+   25  git clone https://github.com/turjo2222/test.git
+   26  git clone https://github.com/mostafa678/StockSystem.git
+   27  git add --all
+   28  git add --all
+   29  git commit -m "Category Full Complete"
+   30  git commit -m "Category Full Complete"
+   31  git add --all
+   32  git commit -m "Category Full Complete"
+   33  git checkout -b 252951
+   34  git push origin 252951 
+   35  git push origin 252951 
+   36  git status 
+   37  git commit -m "Sql Flie Update"
+   38  git add --all
+   39  git commit -m "Sql Flie Update"
+   40  git push origin 252951 
+   41  git status
+   42  git status
+   43  git add --all
+   44  git status
+   45  rm -rf .gitattributes 
+   46  rm -rf .gitignore 
+   47  git status
+   48  git status
+   49  git commit -m "Ignore File"
+   50  git push origin 252951 
+   51  git status
+   52  git add --all
+   53  git commit -m "Category Form Design Update"
+   54  git push origin 252951 
+   55  git add --all
+   56  git commit -m "ignore"
+   57  git push origin 252951 
+   58  git add --all
+   59  git commit -m "Ignore File"
+   60  git push origin 252951 
+   61  git push origin 252951 
+   62  git clone https://github.com/mostafa678/StockSystem.git
+   63  git status 
+   64  cd StockSystem/
+   65  git status 
+   66  git add --all
+   67  git commit -m "Item_Setup_Complete"
+   68  git checkout -b ADD_Item_Setup
+   69  gi push origin ADD_Item_Setup
+   70  git push origin ADD_Item_Setup 
+   71  git status 
+   72  git add --all
+   73  git checkout -b ADD_Item_Setup
+   74  git commit -m "Item_Setup_Complete"
+   75  git push origin ADD_Item_Setup 
+   76  git status 
+   77  git status
+   78  git add --all
+   79  git commit -m "Add_App_Config"
+   80  git push origin ADD_Item_Setup 
+   81  git status
+   82  git add --all
+   83  git commit -m "Ignore_File"
+   84  git push origin ADD_Item_Setup 
+   85  git status
+   86  git status
+   87  git add --all
+   88  git commit -m "Item_Setup_Complete"
+   89  git push origin ADD_Item_Setup 
+   90  git clone https://github.com/mostafa678/StockSystem.git
+   91  cd StockSystem/
+   92  ll
+   93  rm -rf *
+   94  ll
+   95  git status
+   96  git add --all
+   97  git commit -m "Category_Company_Item_Setup_Complete"
+   98  git checkout -b Category_Company_Item_Setup
+   99  git push origin Category_Company_Item_Setup 
+  100  git status
+  101  git add --all
+  102  git commit -m "Ignore_File"
+  103  git push origin Category_Company_Item_Setup 
+  104  git add --all
+  105  git commit -m "Category_Company_Item_Setup_Complete"
+  106  git push origin Category_Company_Item_Setup 
+  107  git stat
+  108  git status
+  109  git add --all
+  110  git commit -m "Command_Sql_Script"
+  111  git push origin Category_Company_Item_Setup 
+  112  git clone https://github.com/mostafa678/StockSystem.git
+  113  rm -rf *.*
+  114  cd StockSystem/
+  115  rm -rf *.*
+  116  rm -rf *
+  117  rm -rf .git*
+  118  git clone https://github.com/mostafa678/StockSystem.git
+  119  cd ..
+  120  git clone https://github.com/mostafa678/StockSystem.git
+  121  cd StockSystem/
+  122  rm -rf *
+  123  git status 
+  124  git commit -m "Ignor_File"
+  125  git checkout -b "StockIn_Processing"
+  126  git push origin StockIn_Processing 
+  127  rm -rf *
+  128  git status 
+  129  git push origin StockIn_Processing 
+  130  git commit -m "Ignor_File"
+  131  git push origin StockIn_Processing 
+  132  git add --all
+  133  git commit -m "Ignor_File"
+  134  git push origin StockIn_Processing 
+  135  git add --all
+  136  git commit -m "Ignor_File"
+  137  git push origin StockIn_Processing 
+  138  git status 
+  139  git add -all
+  140  git add --all
+  141  git status 
+  142  git commit -m "StockIn_Processing"
+  143  git push origin StockIn_Processing 
+  144  git add --all
+  145  git commit -m "StockIn_DB_Cmd_Script"
+  146  git push origin StockIn_Processing 
+  147  git clone https://github.com/mostafa678/Day19_Insert_Update_Delete_Show.git
+  148  cd Day19_Insert_Update_Delete_Show/
+  149  git status
+  150  git add --all
+  151  git commit -m "Ignor_File"
+  152  git push origin master 
+  153  git status
+  154  git add --all
+  155  git commit -m "Ignore_File"
+  156  git push origin master 
+  157  git add --all
+  158  git commit -m "Student_Form"
+  159  git push origin master 
+  160  git add --all
+  161  git commit -m "Student_Form_Database_Command"
+  162  git push origin master 
+  163  git add --all
+  164  git commit -m "Student_Form_App.config"
+  165  git push origin master 
+  166  git clone https://github.com/mostafa678/Calculator_Using_Jquery.git
+  167  git status
+  168  git status 
+  169  git add --all
+  170  cd Calculator_Using_Jquery/
+  171  git status .git
+  172  git add --all
+  173  git commit -m "Ignor File"
+  174  git push origin 
+  175  git add --all
+  176  git commit -m "Web Base Calcultor use Click function using Jquery"
+  177  git push origin 
+  178  git clone https://github.com/mostafa678/Using_Upkey_CalculatorJquery.git
+  179  cd Using_Upkey_CalculatorJquery/
+  180  git add --all
+  181  git commit -m "Ignore_File"
+  182  git push origin 
+  183  git status
+  184  git add -all
+  185  git add --all
+  186  git commit -m "Use_Upkey_Function_Make_Calculator_Using_Jquery"
+  187  git push origin 
+  188  git clone https://github.com/mostafa678/Class_22_MVC_Begin_Insert_Delete_Update_GetByID_GetAll.git
+  189  cd Class_22_MVC_Begin_Insert_Delete_Update_GetByID_GetAll/
+  190  git add --all
+  191  git commit -m "Ignore_File"
+  192  git push origin 
+  193  git add --all
+  194  git commit -m "MVC_Begin_Insert_Delete_Update_GetByID_GetAll"
+  195  git push origin
+  196  git clone https://github.com/mostafa678/SmallBussniess_-Catagory-Product-_Insert_Delete_Update_Class22_Project_Assignment_Begin.git
+  197  cd SmallBussniess_-Catagory-Product-_Insert_Delete_Update_Class22_Project_Assignment_Begin/
+  198  git add --all
+  199  git -m commit "Ignore_File"
+  200  git commit "Ignore_File"
+  201  git commit -m "Ignor_File"
+  202  git push origin 
+  203  history > Git_Command_History.txt
