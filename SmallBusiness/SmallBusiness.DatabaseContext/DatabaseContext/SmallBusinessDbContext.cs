@@ -12,6 +12,7 @@ namespace SmallBusiness.DatabaseContext.DatabaseContext
     {
         public DbSet <Product> Products { get; set; }
         public DbSet <Catagory> Catagories { get; set; }
-
+        public DbSet<Customer> Customers { get; set; }
+        public DbSet<Supplier> Suppliers { get; set; }
     }
 }
